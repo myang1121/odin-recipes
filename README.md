@@ -9,8 +9,8 @@ Self-reflection:
 I made three webpages, "matcha cheese cake," "tempura," and "miso soup." I linked these websites to "home" page.
 
 Each recipe webpage contains:
-- image (<img>)
-- description (<p>)
-- ingredient (<ul>)
-- steps (<ol>)
-- link to original recipe (<a>)
+- image (`<img>`)
+- description (`<p>`)
+- ingredient (`<ul>`)
+- steps (`<ol>`)
+- link to original recipe (`<a>`)
